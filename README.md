@@ -8,6 +8,6 @@
 
 [API USED IN APP](https://openweathermap.org/current)
 
-[USER INETRD=FACE](..main\res\layout)
+[USER INTER FACE](..main\res\layout)
 
 
