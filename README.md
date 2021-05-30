@@ -4,7 +4,7 @@
 
 +* Fetch data from the API 
 
-##API LINK
-[code time](https://openweathermap.org/current)
+
+[API LINK](https://openweathermap.org/current)
 
 *# Redirect the details
